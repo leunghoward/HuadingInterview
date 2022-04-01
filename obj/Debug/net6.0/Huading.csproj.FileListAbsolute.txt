@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Huading\Huading\bin\Debug\net6.0\Huading.exe
+C:\Users\Administrator\source\repos\Huading\Huading\bin\Debug\net6.0\Huading.deps.json
+C:\Users\Administrator\source\repos\Huading\Huading\bin\Debug\net6.0\Huading.runtimeconfig.json
+C:\Users\Administrator\source\repos\Huading\Huading\bin\Debug\net6.0\Huading.dll
+C:\Users\Administrator\source\repos\Huading\Huading\bin\Debug\net6.0\Huading.pdb
+C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\Huading.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\Huading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\Huading.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\Huading.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\Huading.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\Huading.dll
+C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\refint\Huading.dll
+C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\Huading.pdb
+C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\Huading.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\ref\Huading.dll
