@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\Huading\\Huading\\Huading.csproj": {}
+    "J:\\GitOperate\\HuadingInterview\\Huading.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\Huading\\Huading\\Huading.csproj": {
+    "J:\\GitOperate\\HuadingInterview\\Huading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Huading\\Huading\\Huading.csproj",
+        "projectUniqueName": "J:\\GitOperate\\HuadingInterview\\Huading.csproj",
         "projectName": "Huading",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\Huading\\Huading\\Huading.csproj",
+        "projectPath": "J:\\GitOperate\\HuadingInterview\\Huading.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\Huading\\Huading\\obj\\",
+        "outputPath": "J:\\GitOperate\\HuadingInterview\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
