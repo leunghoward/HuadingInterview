@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 //我使用的是vs2022 .net6.0的版本
 
 #region 初始化三行火柴的数量
-ArrayList arrayList1 = new ArrayList();int b = 2;
+ArrayList arrayList1 = new ArrayList();int a = 1;
 ArrayList arrayList2 = new ArrayList();
 ArrayList arrayList3 = new ArrayList();
 
