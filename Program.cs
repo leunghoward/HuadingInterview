@@ -6,6 +6,7 @@ using System.Text.RegularExpressions;
 //20241012
 //1
 //2
+//3
 #region 初始化三行火柴的数量
 string str = "CCC";
 ; ; ArrayList arrayList1 = new ArrayList();int a = 1; ; ; ; ;
