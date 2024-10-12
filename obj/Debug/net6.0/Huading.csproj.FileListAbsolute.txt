@@ -13,3 +13,18 @@ C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\refint\Huad
 C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\Huading.pdb
 C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\Huading.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\Huading\Huading\obj\Debug\net6.0\ref\Huading.dll
+E:\Visual Studio Repos\HuadingInterview\bin\Debug\net6.0\Huading.exe
+E:\Visual Studio Repos\HuadingInterview\bin\Debug\net6.0\Huading.deps.json
+E:\Visual Studio Repos\HuadingInterview\bin\Debug\net6.0\Huading.runtimeconfig.json
+E:\Visual Studio Repos\HuadingInterview\bin\Debug\net6.0\Huading.dll
+E:\Visual Studio Repos\HuadingInterview\bin\Debug\net6.0\Huading.pdb
+E:\Visual Studio Repos\HuadingInterview\obj\Debug\net6.0\Huading.csproj.AssemblyReference.cache
+E:\Visual Studio Repos\HuadingInterview\obj\Debug\net6.0\Huading.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Repos\HuadingInterview\obj\Debug\net6.0\Huading.AssemblyInfoInputs.cache
+E:\Visual Studio Repos\HuadingInterview\obj\Debug\net6.0\Huading.AssemblyInfo.cs
+E:\Visual Studio Repos\HuadingInterview\obj\Debug\net6.0\Huading.csproj.CoreCompileInputs.cache
+E:\Visual Studio Repos\HuadingInterview\obj\Debug\net6.0\Huading.dll
+E:\Visual Studio Repos\HuadingInterview\obj\Debug\net6.0\refint\Huading.dll
+E:\Visual Studio Repos\HuadingInterview\obj\Debug\net6.0\Huading.pdb
+E:\Visual Studio Repos\HuadingInterview\obj\Debug\net6.0\Huading.genruntimeconfig.cache
+E:\Visual Studio Repos\HuadingInterview\obj\Debug\net6.0\ref\Huading.dll

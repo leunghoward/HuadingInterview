@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 
 
 //我使用的是vs2022 .net6.0的版本
-
+//20241012
 #region 初始化三行火柴的数量
 string str = "CCC";
 ; ; ArrayList arrayList1 = new ArrayList();int a = 1; ; ; ; ;
